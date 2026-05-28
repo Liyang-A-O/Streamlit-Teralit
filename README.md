@@ -1,4 +1,4 @@
-# Analisis Data - Skin Disease Dataset
+# Analisis Data Proyek Teralit - Skin Disease Dataset
 
 Deskripsi singkat: proyek ini berisi analisis dan visualisasi dataset penyakit kulit (format COCO) beserta notebook dan skrip dashboard.
 
