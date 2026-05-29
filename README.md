@@ -5,8 +5,8 @@ Judul Proyek : Teralit - Sistem Pendeteksi Penyakit Kulit
 Tema yang Dipilih : Healthy Lives & Well-being
 
 Anggota Data Scientist :
-CDCC014D6Y1395 - Putu Krisna Udayana - Data Scientist - [Aktif]
-CDCC014D6Y1872 - I Gede Liyang Anugrah Oktapian - Data Scientist - [Aktif]
+- CDCC014D6Y1395 - Putu Krisna Udayana - Data Scientist - [Aktif]
+- CDCC014D6Y1872 - I Gede Liyang Anugrah Oktapian - Data Scientist - [Aktif]
 
 Deskripsi singkat: proyek ini berisi analisis dan visualisasi dataset penyakit kulit (format COCO) beserta notebook dan skrip dashboard.
 
